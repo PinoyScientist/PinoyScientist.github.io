@@ -199,6 +199,7 @@ backgr
   cursor: pointer;
   text-align: center;
   transition: background-color 0.5s;
+  margin-bottom: 5%;
 }
 
 .primary-btn:hover {
